@@ -1,3 +1,2 @@
-client:
-  test: config client val
-  val: val
+client.test= config client val
+client.val= val
